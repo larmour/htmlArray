@@ -36,7 +36,7 @@ $number =5;
 		
 			<title>HTML Table Array</title>
 				<meta charset = "utf-8">
-				<meta name = "description" content="Table array:names, last names, UCID and Major">
+				<meta name = "description" content="Table array:last name, first name, email">
 				<link rel = "stylesheet" type ="text/css" href = "styles.css">
 		
 		</head>
